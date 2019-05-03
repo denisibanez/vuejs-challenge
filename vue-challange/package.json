@@ -12,9 +12,11 @@
     "bootstrap-vue": "^2.0.0-rc.19",
     "core-js": "^2.6.5",
     "jquery": "^1.9.1",
+    "vee-validate": "^2.2.5",
     "vue": "^2.6.10",
     "vue-router": "^3.0.6",
-    "vuedraggable": "^2.20.0"
+    "vuedraggable": "^2.20.0",
+    "vuelidate": "^0.7.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.7.0",
